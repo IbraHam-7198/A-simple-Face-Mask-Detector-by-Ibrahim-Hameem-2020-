@@ -2,7 +2,7 @@
 
 
 
-## **If you want to adjust the underlying model used to train the Face Mask Detector, then you will need to open the following file**
+###### **If you want to adjust the underlying model used to train the Face Mask Detector, then you will need to open the following file**
 
 *Fine-tuned Google MobileNet V2 model for Mask or No Mask Prediction - (V1 224 x 224).ipynb* 
           
@@ -16,7 +16,7 @@
 
 
 
-## **If you want to use the pre-trained model (Transfer learning), then ccarryout the following steps**
+###### **If you want to use the pre-trained model (Transfer learning), then ccarryout the following steps**
 
 
 **Step 01:** Download the pre-trained model from the link provided within the file "Download the pre-trained model.md" file. 
