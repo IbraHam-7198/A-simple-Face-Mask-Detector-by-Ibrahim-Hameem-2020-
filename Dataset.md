@@ -1,4 +1,4 @@
-Over 95% of the data used to train the model created under this project was derived from the "MaskedFace-Net dataset". The licenses of the MaskedFace-Net dataset: The dataset is made available under the [] (Creative Commons BY-NC-SA 4.0 license) by NVIDIA Corporation. This allows me to redistribute, and adapt it for non-commercial purposes as long as the following disclosures are made. 
+Over 95% of the data used to train the model created under this project was derived from the "MaskedFace-Net dataset". The licenses of the MaskedFace-Net dataset: The dataset is made available under the [Creative Commons BY-NC-SA 4.0 license] by NVIDIA Corporation. This allows me to redistribute, and adapt it for non-commercial purposes as long as the following disclosures are made. 
 
 The dataset was created by Adnane Cabani, Karim Hammoudi, Halim Benhabiles, and Mahmoud Melkemi and used in their papers: 
 
