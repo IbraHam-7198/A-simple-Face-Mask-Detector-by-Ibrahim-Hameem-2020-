@@ -14,7 +14,6 @@ No changes were made to the images within the dataset. Instead, images were cher
 - I selected the first 5000 and the last 6000 images from the Incorrectly Masked Face Dataset (IMFD)
 
 In addition, the training dataset was also populated with publicly available images collected via google searches and from the dataset of Mr. Thakshila Dasun made available through a google drive link shared on his YouTube Channel. The link is as follows 
-
-[Google drive link] https://www.youtube.com/redirect?event=video_description&v=d3DJqucOq4g&redir_token=QUFFLUhqbFBFVkpOeHc3aXlnQXI1Y0hnT1FseVVOUjc0Z3xBQ3Jtc0ttU2d6MWwxM1Z4VEtlWnc5NVRNYnd6OU1XVkV4a3ZmM2tjMVlnU3h6ZUVmRHhFRjRTU2xleFUwd2FDOHVXSWZjS3hmcU9iNTVBcDRmemNLb1hyVFgwcXZjazhNN0ZwZjlJM1BUblJ2dU1Denhpd016OA%3D%3D&q=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1e2-Ms1e9ar79MMl7gtEzQ8fXKad5yFP0
+DOI: https://www.youtube.com/redirect?event=video_description&v=d3DJqucOq4g&redir_token=QUFFLUhqbFBFVkpOeHc3aXlnQXI1Y0hnT1FseVVOUjc0Z3xBQ3Jtc0ttU2d6MWwxM1Z4VEtlWnc5NVRNYnd6OU1XVkV4a3ZmM2tjMVlnU3h6ZUVmRHhFRjRTU2xleFUwd2FDOHVXSWZjS3hmcU9iNTVBcDRmemNLb1hyVFgwcXZjazhNN0ZwZjlJM1BUblJ2dU1Denhpd016OA%3D%3D&q=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1e2-Ms1e9ar79MMl7gtEzQ8fXKad5yFP0
 
 The model developed by me (Ibrahim Hameem) is also distributed under the same license. https://creativecommons.org/licenses/by-nc-sa/4.0/
