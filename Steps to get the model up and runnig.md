@@ -10,9 +10,11 @@
 
 **Step 03:** Open the *Fine-tuned Google MobileNet V2 model for Mask or No Mask Prediction - (V1 224 x 224).ipynb* and change the working directory to the location where the downloaded dataset was saved in your local drive - *Coding line 03*
 
-**Step 04:** Change the working directory to the location where you want to save the trained model - *Coding line 26*
+**Step 04:** Make the changes that you want 
 
-**Step 05:** Run the code 
+**Step 05:** Change the working directory to the location where you want to save the trained model - *Coding line 26*
+
+**Step 06:** Run the code 
 
 
 
