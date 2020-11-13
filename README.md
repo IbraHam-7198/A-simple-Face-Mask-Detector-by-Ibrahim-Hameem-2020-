@@ -15,3 +15,5 @@ This work is licensed under a
 
 
 You can use, redistribute, and adapt the work done under this project for non-commercial purposes, as long as you (a) give appropriate credit to me "Ibrahim Hameem" for the work done on this project titled "A simple Face Mask Detector by Ibrahim Hameem (2020)", (b) indicate any changes that you've made, and (c) distribute any derivative works under the same license. https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+[Face Mask Detector live demo](https://drive.google.com/file/d/1hn1RMKgVDwfrncsJ7TAZ6fcfMQtwwEss/view?usp=sharing)
