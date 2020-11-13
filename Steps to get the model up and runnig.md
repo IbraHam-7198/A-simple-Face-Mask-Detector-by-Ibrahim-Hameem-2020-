@@ -2,7 +2,7 @@
 
 
 
-## **If you want to adjust the underlying model used to train the Face Mask Detector, then then carryout the following steps**
+## **If you want to adjust the underlying model used to train the Face Mask Detector, then carryout the following steps**
 
 **Step 02:** Download the file *Fine-tuned Google MobileNet V2 model for Mask or No Mask Prediction - (V1 224 x 224).ipynb* 
           
